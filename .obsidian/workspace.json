@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Introduction/Elementary Gates.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "02cf05cf1e7e3d10",
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Introduction/Exercises.md"
               }
             }
           }
@@ -146,8 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c8bea4c3dd70031",
+  "active": "babce1eb0424c8a6",
   "lastOpenFiles": [
+    "Introduction/Exercises.md",
+    "Introduction",
+    "Introduction/Elementary Gates.md",
     "README.md"
   ]
 }
